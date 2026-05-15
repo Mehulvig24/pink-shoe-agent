@@ -1,0 +1,17 @@
+{
+  "name": "Pink Shoe Store",
+  "description": "An AI agent that sells pink shoes and processes orders autonomously.",
+  "url": "https://shoe-shop.app.n8n.cloud/webhook/4f455fc8-eba4-4cb5-bae2-c2b7be91ee2a",
+  "version": "1.0.0",
+  "provider": {
+    "name": "Pink Shoe Store",
+    "url": "https://pinkshoesone.demo"
+  },
+  "skills": [
+    {"name": "shoe_selling"},
+    {"name": "pink_shoes"}
+  ],
+  "authentication": {
+    "required": false
+  }
+}
